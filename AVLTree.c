@@ -1,3 +1,8 @@
+/*
+	@brief:Æ½ºâ¶þ²æÊ÷
+	@author£ºWavenZ
+	@time:2018/10/13
+*/
 #define _CRT_SECURE_NO_WARNINGS
 #include "AVLTree.h"
 
